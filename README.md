@@ -1,5 +1,6 @@
 ### Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm :point_down:
-<img src="https://raw.githubusercontent.com/joacyfonseca/joacyfonseca/master/matrix2.gif" width="100%">
+
+<img src="https://raw.githubusercontent.com/joacyfonseca/joacyfonseca/master/matrix2.gif" width="854px">
 
 - 🔭 I’m currently looking for a job!
 - 🌱 I’m currently learning HTML/CSS/Javascript
