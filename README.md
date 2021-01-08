@@ -2,7 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/joacyfonseca/joacyfonseca/master/matrix2.gif" width="854px">
 
-<p align='center'>
+---
+
 - 🔭 I’m currently looking for a job!
 - 🌱 I’m currently learning HTML/CSS/Javascript
 - 👯 I’m looking to collaborate on Front End projects
@@ -11,6 +12,7 @@
 - 📫 How to reach me: joacybra@gmail.com
 - 😄 Pronouns: Your highnes hahaha just kiding call me just Joe.
 - ⚡ Fun fact: I'm an airplane accident survivor :muscle:
-</p>
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joacyfonseca&layout=compact&theme=dark)](https://github.com/joacyfonseca/github-readme-stats)
