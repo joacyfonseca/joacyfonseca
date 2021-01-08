@@ -1,6 +1,6 @@
 ### Hello folks! My name is [Joacy!](https://www.linkedin.com/in/joacy-fonseca/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<img src="https://raw.githubusercontent.com/joacyfonseca/joacyfonseca/master/matrix.gif" width="100%">
+<img src="https://raw.githubusercontent.com/joacyfonseca/joacyfonseca/master/matrix2.gif" width="480px">
 
 
 - 🔭 I’m currently looking for a job!
