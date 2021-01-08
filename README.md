@@ -7,6 +7,8 @@
 - 💬 Ask me about anything!
 - 📫 How to reach me: <a href="mailto:joacybra@gmail.com">joacybra@gmail.com</a>
 
+---
+
 <a href="https://www.facebook.com/JoacyFonseca">
   <img align="left" alt="Joacy's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
