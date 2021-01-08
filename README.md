@@ -8,6 +8,8 @@
 - 📫 How to reach me: <a href="mailto:joacybra@gmail.com">joacybra@gmail.com</a>
 
 ---
+<p align='center'>
 <a href="https://github.com/joacyfonseca/joacyfonseca">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joacyfonseca&layout=compact&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joacyfonseca&layout=compact&theme=dark">
 </a>
+</p>
