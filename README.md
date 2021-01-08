@@ -9,4 +9,4 @@
 - 😄 Pronouns: Your highnes hahaha just kiding call me just Joe.
 - ⚡ Fun fact: I'm an airplane accident survivor :muscle:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joacyfonseca&layout=compact)](https://github.com/joacyfonseca/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joacyfonseca&layout=compact&theme=dark)](https://github.com/joacyfonseca/github-readme-stats)
