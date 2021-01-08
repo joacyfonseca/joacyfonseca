@@ -8,3 +8,5 @@
 - 📫 How to reach me: joacybra@gmail.com
 - 😄 Pronouns: Your highnes hahaha just kiding call me just Joe.
 - ⚡ Fun fact: I'm an airplane accident survivor :muscle:
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joacyfonseca&theme=dark" />
