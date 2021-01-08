@@ -7,7 +7,7 @@
 - :dog: I'm a dog person
 - :speech_balloon: Ask me anything! (seriously, I like challenges)
 
-## Where to find me!
+## Where to find me! :mag:
 
 <a href="https://www.facebook.com/JoacyFonseca">
   <img align="center" alt="Joacy's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
@@ -16,7 +16,7 @@
   <img align="center" alt="Joacy's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-## GitHub Stats
+## GitHub Stats &#x1f4c8; 
 
 <a href="https://github.com/joacyfonseca/joacyfonseca">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joacyfonseca&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
