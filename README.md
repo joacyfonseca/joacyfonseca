@@ -4,6 +4,14 @@
 
 ---
 
+- :bar_chart: I'm a Junior Data Analyst 
+- :thinking: I'm learning about Python, SQL and Hadoop
+- :dog: I'm a dog person
+- :speech_balloon: Ask me anything! (seriously I like challenges)
+
+---
+
+<p align='center'>Where to find me</p>
 <p align='center'>
 <a href="https://www.facebook.com/JoacyFonseca">
   <img align="center" alt="Joacy's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
