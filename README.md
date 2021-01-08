@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**joacyfonseca/joacyfonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there! 👋
 
 - 🔭 I’m currently looking for a job!
 - 🌱 I’m currently learning HTML/CSS/Javascript
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: joacybra@gmail.com
 - 😄 Pronouns: Your highnes hahaha just kiding call me just Joe.
 - ⚡ Fun fact: I'm an airplane accident survivor :muscle:
--->
