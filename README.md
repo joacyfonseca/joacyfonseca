@@ -13,4 +13,6 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joacyfonseca&layout=compact&theme=dark)](https://github.com/joacyfonseca/github-readme-stats)
+<a href="https://github.com/joacyfonseca/joacyfonseca">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joacyfonseca&layout=compact&theme=dark" style="max-width:100%;"/>
+</a>
