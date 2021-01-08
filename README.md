@@ -4,12 +4,14 @@
 
 ---
 
+<p align='center'>
 <a href="https://www.facebook.com/JoacyFonseca">
   <img align="center" alt="Joacy's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 <a href="https://www.linkedin.com/in/joacy-fonseca/">
   <img align="center" alt="Joacy's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+</p>
 
 ---
 
