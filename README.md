@@ -1,4 +1,4 @@
-### Hello folks! My name is [Joacy!](https://www.linkedin.com/in/joacy-fonseca/)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello folks! My name is [Joacy!](https://www.linkedin.com/in/joacy-fonseca/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🔭 I’m currently looking for a job!
 - 🌱 I’m currently learning HTML/CSS/Javascript
