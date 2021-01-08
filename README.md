@@ -1,7 +1,5 @@
-### Hello folks! My name is [Joacy!](https://www.linkedin.com/in/joacy-fonseca/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+### Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm :point_down:
 <img src="https://raw.githubusercontent.com/joacyfonseca/joacyfonseca/master/matrix2.gif" width="100%">
-
 
 - 🔭 I’m currently looking for a job!
 - 🌱 I’m currently learning HTML/CSS/Javascript
