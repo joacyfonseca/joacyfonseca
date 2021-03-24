@@ -2,10 +2,10 @@
 
 ## Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- :bar_chart: I'm a Junior Data Analyst 
-- :thinking: I'm learning about Python, SQL and Hadoop
+- :bar_chart: I'm an aspiring Software Developer 
+- :thinking: I'm learning about HTML, CSS and JS 
 - :dog: I'm a dog person
-- :speech_balloon: Ask me anything! (seriously, I like challenges)
+- :speech_balloon: Ask me anything!
 
 ## Where to find me! :mag:
 
