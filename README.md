@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/joacyfonseca/joacyfonseca/master/matrix2.gif" width="100%">
 
-## Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
+## Hello folks!
 
 - :bar_chart: I'm an aspiring Software Developer 
 - :thinking: I'm learning about HTML, CSS and JS 
-- :dog: I'm a dog person
+- :dog: Dog person
 - :speech_balloon: Ask me anything!
 
 ## Where to find me! :mag:
