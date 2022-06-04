@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/joacyfonseca/joacyfonseca/master/matrix2.gif" width="100%">
 
-## Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
 
 - :bar_chart: I'm an aspiring Software Developer 
 - :thinking: I'm learning about HTML, CSS and JS 
