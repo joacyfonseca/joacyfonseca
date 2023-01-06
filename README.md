@@ -7,7 +7,7 @@
 
 ## Where to find me! :mag:
 
-<a href="https://www.instagram.com/j.foonseeca/?hl=en">
+<a href="https://www.instagram.com/iamjoacy/?hl=en">
   <img align="center" alt="Email me" width="22px" src="https://github.com/yushi1007/yushi1007/blob/main/images/instagram.png" />
 </a>
 
